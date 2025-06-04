@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="WorkspaceSettings">
+    <project name="vertx-playground" path="$PROJECT_DIR$/vertx-playground">
+      <vcs id="Git" remoteUrl="https://github.com/mraysmit/vertx-playground.git" />
+    </project>
+    <project name="vertx-crud-eventbus-basic" path="$PROJECT_DIR$/vertx-crud-eventbus-basic" />
     <option name="workspace" value="true" />
   </component>
 </project>
