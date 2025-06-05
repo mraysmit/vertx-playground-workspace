@@ -7,6 +7,9 @@
     <project name="vertx-crud-eventbus-basic" path="$PROJECT_DIR$/vertx-crud-eventbus-basic">
       <vcs id="Git" remoteUrl="https://github.com/mraysmit/vertx-crud-eventbus-basic.git" />
     </project>
+    <project name="vertx-reference" path="$PROJECT_DIR$/vertx-reference">
+      <vcs id="Git" remoteUrl="https://github.com/mraysmit/vertx-reference.git" />
+    </project>
     <option name="workspace" value="true" />
   </component>
 </project>
